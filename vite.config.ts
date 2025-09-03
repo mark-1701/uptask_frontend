@@ -6,6 +6,9 @@ import { fileURLToPath, URL } from 'node:url';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  build: {
+    sourcemap: true,   // 👈 habilita source maps
+  },
   // importar alias
   resolve: {
     alias: {
