@@ -113,7 +113,7 @@ export async function getUser() {
 
     const response = userSchema.safeParse(data);
 
-    // validar que se retorne correctamente el formato
+    // validar que se retorna correctamente el formato
     if (response.success) {
       return response.data;
     }
