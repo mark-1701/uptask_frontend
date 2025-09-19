@@ -1,26 +1,39 @@
-# Listado de librerías usadas
+# 📌 UpTask FrontEnd
+
+descripción del proyecto...
+
+## 🚀 Tecnologías principales
+
+- React
+- Typescript
+- Tipado y Validación (Zod)
+
+## 📦 Dependencias clave
 
 - Axios
-- Charkra UI
+- Chakra UI
 - dnd kit
 - Heroicons
-- Headlessui
-- Tailwindcss
+- Headless UI
 - React Hook Form
 - React Toastify
-- React Router Dom
+- React Router DOM
 - React Query
+- TailwindCSS
 - Zod
 
-# Listado de módulos implementados
+## 🔧 Funcionalidades implementadas
 
-- API's
-- Arrastrado de objetos (Drag and Drop)
-- Headlessui y Heroicons
-- Tipado con Zod
-- Modales responsivos dependientes a los Query's de URL
-- Notificaciones Toast
-- Redireccionamiento al Login si el usuario no tiene credenciales
-- React Hook Form para procesar formularios
-- React Query para procesar como se consultan los métodos de Axios
-- React Router Dom para gestionar rutas y rutas anidadas
+- API’s (Axios + React Query)
+- Arrastrar y soltar (Drag & Drop con dnd kit)
+- Tipado y validación con Zod
+- Formularios con React Hook Form
+- Notificaciones con Toastify
+- UI con Chakra + Tailwind + HeadlessUI + Heroicons
+- Modales responsivos dependientes de parámetros en la URL
+- Redirección al Login si el usuario no tiene credenciales
+- Rutas y rutas anidadas con React Router DOM
+
+## 📂 Notas rápidas
+
+notas rápidas...
